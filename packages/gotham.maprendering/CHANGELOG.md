@@ -1,5 +1,17 @@
 # @osdk/gotham.maprendering
 
+## 0.8.0
+
+### Minor Changes
+
+- 0374998: Regenerate platform SDKs
+
+### Patch Changes
+
+- Updated dependencies [0374998]
+  - @osdk/gotham.geojson@0.8.0
+  - @osdk/gotham.core@0.8.0
+
 ## 0.7.0
 
 ### Minor Changes

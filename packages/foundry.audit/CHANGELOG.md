@@ -1,5 +1,16 @@
 # @osdk/foundry.audit
 
+## 2.35.0
+
+### Minor Changes
+
+- 0374998: Regenerate platform SDKs
+
+### Patch Changes
+
+- Updated dependencies [0374998]
+  - @osdk/foundry.core@2.35.0
+
 ## 2.34.0
 
 ### Minor Changes
